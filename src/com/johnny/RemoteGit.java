@@ -33,8 +33,16 @@ public class RemoteGit {
 
 
 
+    public void testStash(){
+        System.out.println("stash");
+    }
+
+
+
     public void testPush(){
         System.out.println("testPush");
     }
+
+
 
 }
