@@ -17,7 +17,7 @@ public class RemoteGit {
     }
 
 
-    public void hello(){
+    public void hello2(){
         System.out.println("hello github   111");
     }
 
