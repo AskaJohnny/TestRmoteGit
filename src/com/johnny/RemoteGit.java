@@ -10,6 +10,11 @@ public class RemoteGit {
     public static void main(String[] args) {
         System.out.println("hello johnny  git");
     }
+    
+    
+    public void print(String msg){
+        System.out.println(msg);
+    }
 
 
 }
