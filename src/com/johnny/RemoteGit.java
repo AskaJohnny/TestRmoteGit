@@ -28,8 +28,10 @@ public class RemoteGit {
 
     public void devCreate(){
         System.out.println("我是dev 创建的");
-        System.out.println("hello github   222");
+        System.out.println("hello github   xiugai");
     }
+    
+   
 
 
 
