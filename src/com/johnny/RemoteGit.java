@@ -12,6 +12,11 @@ public class RemoteGit {
     }
 
 
+    public void print(String msg){
+        System.out.println(msg);
+    }
+
+
     public void hello(){
         System.out.println("hello github");
     }
