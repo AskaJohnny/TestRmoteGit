@@ -18,7 +18,16 @@ public class RemoteGit {
 
 
     public void hello2(){
-        System.out.println("hello github   111");
+        System.out.println("hello github   111222");
+    }
+
+
+    public void test1(){
+        System.out.println("hello test1");
+    }
+
+    public void devCreate(){
+        System.out.println("我是dev 创建的");
     }
 
 
