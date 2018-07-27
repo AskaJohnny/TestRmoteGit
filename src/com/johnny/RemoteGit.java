@@ -32,4 +32,9 @@ public class RemoteGit {
     }
 
 
+
+    public void testPush(){
+        System.out.println("testPush");
+    }
+
 }
